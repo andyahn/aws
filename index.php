@@ -24,7 +24,7 @@
             </tr>
         <?php
  
-        $conn = new mysqli('database-1.cs5t3rl5axhv.ap-northeast-2.rds.amazonaws.com','admin','MODE1752');
+        $conn = new mysqli('database-1.cs5t3rl5axhv.ap-northeast-2.rds.amazonaws.com','admin','mode1752');
         if(!$conn){
             die('could not connect:'.mysqli_error($conn));
         }
