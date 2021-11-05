@@ -98,5 +98,7 @@
 
             </table>
         </form>
+    
+        <a>aerope-static.cf/index.html</a>
     </body>
 </html>
