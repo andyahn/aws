@@ -99,6 +99,6 @@
             </table>
         </form>
     
-        <a>aerope-static.cf/index.html</a>
+        <a href="aerope-static.cf/index.html">Static Web Page</a>
     </body>
 </html>
