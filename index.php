@@ -98,7 +98,8 @@
 
             </table>
         </form>
-    
+        <br/>
+        <br/>
         <a href="https://aerope-static.cf/index.html">Static Web Page</a>
     </body>
 </html>
